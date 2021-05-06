@@ -1,5 +1,5 @@
-# testing out netmiko for simple SSH tasks
+# Testing out netmiko for simple SSH tasks
 
-# current scripts:
+# Current scripts:
 - FortiGate backup script
 - Linux SSH script with sudo example
